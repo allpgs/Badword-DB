@@ -1,6 +1,6 @@
 ---
 name: 중복 단어 제거
-about: 중복 되는 단어를 제거를 요청하시려면 여기를 눌러주세요.
+about: 여기서 중복 되는 단어를 제거를 요청하세요.
 title: "[중복 단어 제거] "
 labels: "duplicate words"
 ---
