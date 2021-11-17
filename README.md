@@ -1,6 +1,6 @@
 # 비속어 데이터 베이스
 
-하린봇에 들어갈 비속어의 데이터베이스입니다.
+[하린봇](https://github.com/spacedev-official/harin), [비동기 욕설 탐지 모듈](https://github.com/spacedev-official/)에 들어갈 비속어의 데이터베이스입니다.
 
 ## 비속어 추가 방법:
 1. Fork를 진행합니다.
